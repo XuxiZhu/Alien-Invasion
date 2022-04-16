@@ -15,6 +15,6 @@ python3 alien_invasion.py
 Click 'Play' to start the game!
 Press Space to shoot bullets.
 Press Esc to quit.
-Press F if you feel too hard. Be cautious!
+Press F if you feel too difficult to play. Be cautious!
 
 Please contact the author if you encounter any bug or have any suggestion!
